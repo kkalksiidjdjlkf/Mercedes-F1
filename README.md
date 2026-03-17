@@ -30,6 +30,6 @@ Records: Historical data and pit stop milestones.
 Sustainability: Overview of the "Net Zero 2030" initiative.
 
 🚀 How to Run
-Clone the repository: git clone https://github.com/your-username/mercedes-f1-fanpage.git
+Clone the repository: git clone https://github.com/kkalksiidjdjlkf/Mercedes-F1
 
 Open index.html in your preferred browser.
